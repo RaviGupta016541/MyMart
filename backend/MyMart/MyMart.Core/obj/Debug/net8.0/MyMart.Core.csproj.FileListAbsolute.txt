@@ -1,0 +1,12 @@
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\bin\Debug\net8.0\MyMart.Core.deps.json
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\bin\Debug\net8.0\MyMart.Core.dll
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\bin\Debug\net8.0\MyMart.Core.pdb
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\MyMart.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\MyMart.Core.AssemblyInfoInputs.cache
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\MyMart.Core.AssemblyInfo.cs
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\MyMart.Core.csproj.CoreCompileInputs.cache
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\MyMart.Core.sourcelink.json
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\MyMart.Core.dll
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\refint\MyMart.Core.dll
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\MyMart.Core.pdb
+E:\AProject\MyMart\backend\MyMart\MyMart.Core\obj\Debug\net8.0\ref\MyMart.Core.dll

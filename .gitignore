@@ -1,0 +1,12 @@
+backend/MyMart/MyMart.API/bin/
+backend/MyMart/MyMart.API/obj/
+
+backend/MyMart/MyMart.Core/bin/
+backend/MyMart/MyMart.Core/obj/
+
+backend/MyMart/MyMart.Infrastructure/bin/
+backend/MyMart/MyMart.Infrastructure/obj/
+
+backend/MyMart/Services/obj/
+backend/MyMart/Services/bin
+

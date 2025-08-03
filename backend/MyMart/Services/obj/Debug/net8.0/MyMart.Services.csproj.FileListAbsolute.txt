@@ -1,0 +1,16 @@
+E:\AProject\MyMart\backend\MyMart\Services\bin\Debug\net8.0\MyMart.Services.deps.json
+E:\AProject\MyMart\backend\MyMart\Services\bin\Debug\net8.0\MyMart.Services.dll
+E:\AProject\MyMart\backend\MyMart\Services\bin\Debug\net8.0\MyMart.Services.pdb
+E:\AProject\MyMart\backend\MyMart\Services\bin\Debug\net8.0\MyMart.Core.dll
+E:\AProject\MyMart\backend\MyMart\Services\bin\Debug\net8.0\MyMart.Core.pdb
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.csproj.AssemblyReference.cache
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.AssemblyInfoInputs.cache
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.AssemblyInfo.cs
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.csproj.CoreCompileInputs.cache
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.sourcelink.json
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.S.836D54ED.Up2Date
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.dll
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\refint\MyMart.Services.dll
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\MyMart.Services.pdb
+E:\AProject\MyMart\backend\MyMart\Services\obj\Debug\net8.0\ref\MyMart.Services.dll
